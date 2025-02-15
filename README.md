@@ -177,5 +177,4 @@ Once we could cluster images successfully in 2D or N-dimensional UMAP space, the
 
 # Thanks for Visiting!
 
-Feel free to open an issue or submit a pull request if you have suggestions or encounter any problems.
 
