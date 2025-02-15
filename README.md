@@ -172,11 +172,6 @@ Once we could cluster images successfully in 2D or N-dimensional UMAP space, the
 - UMAP library: [https://umap-learn.readthedocs.io/](https://umap-learn.readthedocs.io/)
 - HDBSCAN library: [https://hdbscan.readthedocs.io/](https://hdbscan.readthedocs.io/)
 
----
-
-## 8. License
-
-Choose a license if you wish (e.g., [MIT License](https://choosealicense.com/licenses/mit/)) or leave it private.
 
 ---
 
