@@ -4,10 +4,6 @@ This repository contains papers on various topics from the Data Analytics course
 
 # Bird Image Clustering and Recommendation System
 
-**Author**: Your Name  
-**Date**: 2025-xx-xx  
-**Project Type**: Data Analysis / Machine Learning (Clustering + Recommender)
-
 ## Overview
 
 This repository showcases a project that clusters a custom image dataset of **25 different bird species** and builds an interactive recommendation system. The goal is to group visually similar bird images and allow users to retrieve “similar” images based on a selected reference.
