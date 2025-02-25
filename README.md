@@ -22,10 +22,10 @@ This project is intended as a portfolio piece for a **Data Analyst** position. I
 - User interface design with Tkinter + PIL
 
 ### Main Page
-![MainPage](https://drive.google.com/file/d/1XVP_w_X8PYVqurjfZt98ZxrvYYhk2f0z/view?usp=drive_link)
+![MainPage]([https://drive.google.com/file/d/1XVP_w_X8PYVqurjfZt98ZxrvYYhk2f0z/view?usp=drive_link](https://drive.google.com/file/d/1XVP_w_X8PYVqurjfZt98ZxrvYYhk2f0z/view?usp=drive_link))
 
 ### Page with with the selected type of bird
-![SecondPage](https://drive.google.com/file/d/1cfxSFSGeki14T_UTBimdXAAgOjaOXj-9/view?usp=drive_link)
+![SecondPage]([https://drive.google.com/file/d/1cfxSFSGeki14T_UTBimdXAAgOjaOXj-9/view?usp=drive_link](https://drive.google.com/file/d/1cfxSFSGeki14T_UTBimdXAAgOjaOXj-9/view?usp=drive_link))
 
 ---
 
