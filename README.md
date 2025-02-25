@@ -25,7 +25,7 @@ This project is intended as a portfolio piece for a **Data Analyst** position. I
 ![MainPage](https://drive.google.com/uc?export=view&id=1XVP_w_X8PYVqurjfZt98ZxrvYYhk2f0z)
 
 ### Page with with the selected type of bird
-<img src="https://drive.google.com/file/d/1cfxSFSGeki14T_UTBimdXAAgOjaOXj-9/view" width="600">
+![SelectedType](https://drive.google.com/uc?export=view&id=1cfxSFSGeki14T_UTBimdXAAgOjaOXj-9)
 
 ---
 
